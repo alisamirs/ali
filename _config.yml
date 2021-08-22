@@ -1,0 +1,9 @@
+# Site settings
+title: Ali Samir El-said
+author:
+  name: 
+  email: ali.samir.elsaid@gmail.com
+description: "A webpage for All my projects and accomplishments."
+
+# Build settings
+remote_theme: jekyll/minima
