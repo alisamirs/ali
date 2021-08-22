@@ -1,8 +1,8 @@
 ---
 layout: home 
+title: Home Page
 ---
 
-# **About Me**
 
 ### **Graduated from Georgia State University - Cairo University Partnership.**
 
