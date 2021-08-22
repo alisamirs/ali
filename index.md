@@ -2,7 +2,6 @@
 layout: home 
 ---
 
-# **ME**
 
 ### **Graduated from Georgia State University - Cairo University Partnership.**
 
