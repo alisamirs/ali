@@ -1,9 +1,8 @@
 ---
 layout: page
-title: 
+title: About
 ---
 
-# **About Me**
 
 ### **Graduated from Georgia State University - Cairo University Partnership.**
 
